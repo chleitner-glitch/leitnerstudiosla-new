@@ -1,7 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import StudioSection from "@/components/StudioSection";
-import Gallery from "@/components/Gallery";
 import BookingSection from "@/components/BookingSection";
 import Reviews from "@/components/Reviews";
 import Location from "@/components/Location";
@@ -14,7 +13,6 @@ export default function Home() {
       <Navbar />
       <Hero />
       <StudioSection />
-      <Gallery />
       <BookingSection />
       <Reviews />
       <Location />
